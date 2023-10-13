@@ -1,6 +1,6 @@
 # Wine-Quality-Prediction
 
-The Wine Quality Prediction Project is a machine learning project designed to predict the quality of wines based on various attributes. The quality of RED and WHITE are predicted using Supervised Machine Learning Models which are Random Forest Classifier and Logistic Regression.
+The Wine Quality Prediction Project is a Big Data project designed to predict the quality of wines based on various attributes. The quality of RED and WHITE are predicted using Supervised Machine Learning Models which are Random Forest Classifier and Logistic Regression.
  This project uses Python and popular libraries such as Scikit-Learn, Pandas, Matplotlib, Seaborn, and more to perform the following tasks:
 
 - Data preprocessing to handle missing values in the dataset.
